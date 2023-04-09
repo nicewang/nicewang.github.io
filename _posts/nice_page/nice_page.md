@@ -1,1 +1,0 @@
-### Nice's Personal Page
