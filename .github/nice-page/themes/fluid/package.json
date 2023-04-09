@@ -1,7 +1,7 @@
 {
   "name": "hexo-theme-fluid",
   "version": "1.9.4",
-  "description": "An elegant Material-Design theme for Hexo.",
+  "description": "NiceWang's Page.",
   "main": "package.json",
   "files": [
     "languages",
