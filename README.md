@@ -6,14 +6,14 @@
 
 #### 0. Requirements
 
-```
+```markdown
     NodeJS
     Hexo: npm install -g hexo-cli
 ```
 
 #### 1. init hexo project
 
-```
+```shell
     hexo init hexo-blog
     cd hexo-blog
     npm install
