@@ -69,3 +69,13 @@
     mv hexo-blog/ .≈/
     cp .github/hexo-blog/public/* ./
 ```
+
+#### 7. PDF support
+* Install hexo-pdf
+```shell
+    npm install --save hexo-pdf
+```
+* Modify _config.yml
+
+#### Appendix
+[NodeJS Support For Hexo](https://www.npmjs.com/package/hexo-pdf)
