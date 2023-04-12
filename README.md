@@ -17,7 +17,7 @@
 
 #### 1. init hexo project
 
-```shell
+```bash
     hexo init hexo-blog
     cd hexo-blog
     npm install
@@ -45,7 +45,7 @@
 
 * Generate blog _posts
 
-  * ```shell
+  * ```bash
     hexo new post new_blog
     ```
 
@@ -53,7 +53,7 @@
 
 #### 4. About, Categorues and Tags
 
-```shell
+```bash
     hexo new page about
     hexo new page tags
     hexo new page categories
@@ -61,14 +61,14 @@
 
 #### 5. Local Start-Up
 
-```shell
+```bash
     hexo g -d
     hexo s
 ```
 
 #### 6. Deploy to GitHub Pages
 
-```shell
+```bash
     mkdir .github
     mv hexo-blog/ .≈/
     cp .github/hexo-blog/public/* ./
@@ -78,7 +78,7 @@
 
 * Install hexo-pdf
 
-```shell
+```bash
     npm install --save hexo-pdf
 ```
 
@@ -86,4 +86,4 @@
 
 #### Appendix
 
-[NodeJS Support For Hexo](
+[NodeJS Support For Hexo](https://www.npmjs.com/package/hexo-pdf)
