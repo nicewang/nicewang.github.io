@@ -82,7 +82,13 @@
     npm install --save hexo-pdf
 ```
 
-* Modify _config.yml
+#### 8. nodeppt
+
+```bash
+    npm install -g nodeppt
+    nodeppt new slide.md
+```
+[NodePPT](https://hexo.fluid-dev.com/posts/hexo-nodeppt/)
 
 #### Appendix
 
