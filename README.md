@@ -1,5 +1,9 @@
 ## NiceWang's Personal Page
 
+| Version | Framework           | Release Date |
+| ------- | ------------------- | ------------ |
+| V1      | Hero (Theme: Fluid) | 2023-04-09   |
+
 ### v1 (202304)
 
 * Using Hexo template with Fluid theme
@@ -71,11 +75,15 @@
 ```
 
 #### 7. PDF support
+
 * Install hexo-pdf
+
 ```shell
     npm install --save hexo-pdf
 ```
+
 * Modify _config.yml
 
 #### Appendix
-[NodeJS Support For Hexo](https://www.npmjs.com/package/hexo-pdf)
+
+[NodeJS Support For Hexo](
