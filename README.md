@@ -70,7 +70,7 @@
 
 ```bash
     mkdir .github
-    mv hexo-blog/ .≈/
+    mv hexo-blog/ ./
     cp .github/hexo-blog/public/* ./
 ```
 
