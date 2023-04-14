@@ -2,7 +2,7 @@
 
 | Version | Framework           | Release Date |
 | ------- | ------------------- | ------------ |
-| V1      | Hexo (Theme: Fluid) | 2023-04-09   |
+| V1      | [Hexo](https://hexo.io) (Theme: [Fluid](https://github.com/fluid-dev/hexo-theme-fluid)) | 2023-04-09   |
 
 ### v1 (202304)
 
