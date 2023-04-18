@@ -74,7 +74,14 @@
     cp .github/hexo-blog/public/* ./
 ```
 
-#### 7. PDF support
+#### 7. Image
+
+* Modify _config.yml
+    * ```yml
+      post_asset_folder: true
+      ```
+
+#### 8. PDF support
 
 * Install hexo-pdf
 
@@ -82,7 +89,7 @@
     npm install --save hexo-pdf
 ```
 
-#### 8. nodeppt
+#### 9. nodeppt
 
 ```bash
     npm install -g nodeppt
