@@ -70,8 +70,8 @@
 
 ```bash
     mkdir .github
-    mv hexo-blog/ ./
-    cp .github/hexo-blog/public/* ./
+    mv hexo-blog/ .github/
+    mv .github/hexo-blog/public/* ./
 ```
 
 #### 7. Image
