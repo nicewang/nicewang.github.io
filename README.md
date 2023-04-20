@@ -72,6 +72,9 @@
     mkdir .github
     mv hexo-blog/ .github/
     mv .github/hexo-blog/public/* ./
+    # or use deploy.sh instead
+    # run it at .github/hexo-blog/
+    sh -x ../../deploy.sh
 ```
 
 #### 7. Image
