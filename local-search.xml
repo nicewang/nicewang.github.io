@@ -4,19 +4,6 @@
   
   
   <entry>
-    <title>TEXPLORE and APPLD Learning Presentation</title>
-    <link href="/2023/04/09/texplore-appld-presentation/"/>
-    <url>/2023/04/09/texplore-appld-presentation/</url>
-    
-    <content type="html"><![CDATA[<h3 id="TEXPLORE-and-APPLD-Learning-Presentation"><a href="#TEXPLORE-and-APPLD-Learning-Presentation" class="headerlink" title="TEXPLORE and APPLD Learning Presentation"></a><center>TEXPLORE and APPLD Learning Presentation</center></h3><h4 id="1-TEXPLORE-Part"><a href="#1-TEXPLORE-Part" class="headerlink" title="1. TEXPLORE Part"></a>1. TEXPLORE Part</h4><img src="/2023/04/09/texplore-appld-presentation/peter_stone_1.png" class="" title="TEXPLORE: real-time sample-efficient reinforcement learning for robots"><center><font face="Times" color=gray size=1.5>Fig1: TEXPLORE: real-time sample-efficient reinforcement learning for robots</font></center> &nbsp<img src="/2023/04/09/texplore-appld-presentation/peter_stone_2.png" class="" title="RTMBA Parallel Architecture with UCT(λ) Planning Method"> <center><font face="Times" color=gray size=1.5>Fig2: RTMBA Parallel Architecture with UCT(λ) Planning Method</font></center> &nbsp<img src="/2023/04/09/texplore-appld-presentation/peter_stone_3.png" class="" title="Thinking of Future Work of TEXPLORE"> <center><font face="Times" color=gray size=1.5>Fig3: Thinking of Future Work of TEXPLORE</font></center> <h4 id="2-APPLD-Part"><a href="#2-APPLD-Part" class="headerlink" title="2. APPLD Part"></a>2. APPLD Part</h4><img src="/2023/04/09/texplore-appld-presentation/peter_stone_4.png" class="" title="APPLD: Adaptive Planner Parameter Learning from Demonstration"><center><font face="Times" color=gray size=1.5>Fig4: APPLD: Adaptive Planner Parameter Learning from Demonstration</font></center> <h4 id="PDF-Download"><a href="#PDF-Download" class="headerlink" title="PDF Download:"></a>PDF Download:</h4><div class="row">    <embed src="./Texplore-and-APPLD-learning-presentation.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hexo Quick Start</title>
     <link href="/2023/04/09/hello-world/"/>
     <url>/2023/04/09/hello-world/</url>
